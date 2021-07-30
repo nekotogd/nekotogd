@@ -4,7 +4,7 @@ I guess GitHub kinda cool tho.
 
 Anyways, here's some of my stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=radical)
 
 <h1>About me</h1>
 
