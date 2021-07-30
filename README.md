@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3>Me trying to figure out GitHub</h3>
+
+Why is it so confusing? I guess GitHub kinda cool tho.
 
 <!--
 **nekotogd/nekotogd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
