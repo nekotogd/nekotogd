@@ -12,6 +12,6 @@ Mainly a Godot Game Developer, I do some pixel art occasionally but I love writi
 
 My programming Language of choice is **Python** 🐍
 
-Its just so easy to create advanced programs using modules, and not having to include a header or anything but just a simple "import" keyword
+Its just so easy to create advanced programs using modules, and not having to include a bunch of library files or anything but just a simple "import" keyword
 
 Here's a program I made using Python that might help any GCSE students (*wink wink* dont tell anybody hehe): https://github.com/nekotogd/UMS_Finder
