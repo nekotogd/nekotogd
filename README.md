@@ -6,6 +6,8 @@ Anyways, here's some of my stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=onedark)
+
 <h1>About me</h1>
 
 Mainly a Godot Game Developer, I do some pixel art occasionally but I love writing shaders in Godot. (Its kinda like simplified GLSL)
