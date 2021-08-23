@@ -1,9 +1,3 @@
-<h3>Why is GitHub so confusing???</h3>
-
-I guess GitHub kinda cool tho.
-
-Anyways, here's some of my stats:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=radical)
 
 <h1>About me</h1>
