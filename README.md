@@ -1,8 +1,8 @@
 # My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=discord_old_blurple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>About me</h1>
 
