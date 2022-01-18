@@ -8,18 +8,8 @@
 
 Mainly a Godot Game Developer, I do some pixel art occasionally but I love writing shaders in Godot. (Its kinda like simplified GLSL)
 
-My programming Language of choice is **Python** 🐍
+Check out my YouTube channel, its where I post most of my Game Development progress
 
-Its just so easy to create advanced programs using modules, and not having to include a bunch of library files or anything but just a simple "import" keyword
-
-Especially useful for coding random \**** at 3AM
-
-```python
-from my_brain import braincells
-
-def why_am_i_up_this_late(braincells):
-  if len(braincells) < 1:
-    print("bro save meee")
-```
+https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured
 
 Here's a program I made using Python that might help any GCSE students (*wink wink* dont tell anybody hehe): https://github.com/nekotogd/UMS_Finder
