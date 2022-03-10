@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_fulllogo_upscaled.png?raw=true" />
+  <img src="https://github.com/nekotogd/nekotogd/blob/main/Nekoto_holding_shader_and_botw.png?raw=true" />
 </p>
+<p align="center">
+  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts%20logo3_upscaled_cropped.png?raw=true" width=700/>
+</p>
+
 
 ### Engineering Undergraduate Student by day, Godot Game Developer by night.
 
