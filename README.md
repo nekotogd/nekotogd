@@ -1,4 +1,6 @@
-# Hi! I'm NekotoArts!
+<p align="center">
+  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_fulllogo_upscaled.png?raw=true" />
+</p>
 
 ### Engineering Undergraduate Student by day, Godot Game Developer by night.
 
