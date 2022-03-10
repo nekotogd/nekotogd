@@ -6,7 +6,7 @@
 </p>
 
 
-### Engineering Undergraduate Student by day, Godot Game Developer by night.
+### Engineering Student by day, Godot Game Developer by night.
 
 [![YouTube](https://img.shields.io/badge/NekotoArts-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nekotoarts.itch.io/) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
 
