@@ -8,7 +8,7 @@
 
 ### Engineering Student by day, Godot Game Developer by night.
 
-[![YouTube](https://img.shields.io/badge/NekotoArts-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nekotoarts.itch.io/) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
+[![YouTube](https://img.shields.io/badge/NekotoArts-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nekotoarts.itch.io/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/XDGregory) [![Twitter](https://img.shields.io/badge/NekotoArts-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NekotoArts) [![Godot Engine](https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotshaders.com/author/nekotoarts/)
 
 <p align="left">
 <a href="https://github.com/nekotogd/nekotogd">
