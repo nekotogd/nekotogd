@@ -4,7 +4,12 @@
 
 ### Engineering Student and Godot Game Developer. I break down shaders on YouTube.
 
-[![YouTube](https://img.shields.io/badge/NekotoArts-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nekotoarts.itch.io/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/XDGregory) [![Twitter](https://img.shields.io/badge/NekotoArts-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NekotoArts) [![Godot Engine](https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotshaders.com/author/nekotoarts/)
+<p align="center">
+<a href="https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured" target="blank"><img src="https://img.shields.io/badge/NekotoArts-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="NekotoArts" /></a>
+<a href="https://twitter.com/NekotoArts" target="blank"><img src="https://img.shields.io/badge/NekotoArts-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="NekotoArts" /></a>
+<a href="https://nekotoarts.itch.io/" target="blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
+<a href="https://godotshaders.com/author/nekotoarts/" target="blank"><img src="https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /></a>
+<a href="https://reddit.com/user/XDGregory" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a></p>
 
 <p align="left">
 <a href="https://github.com/nekotogd/nekotogd">
@@ -19,3 +24,5 @@
 Writing shaders and creating VFX is probably what I do best.
 
 Check out my [YouTube channel](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured), its where I post most of my Game Development progress, cool shaders and VFX, and **a whole lot of** Breath of the Wild stuff in Godot.
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCD7K_FECPHTF0z5okAVlh0g?color=FF0000&label=Sub%20to%20NekotoArts&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/c/NekotoArts) [![](https://img.shields.io/twitter/follow/NekotoArts?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/NekotoArts)
