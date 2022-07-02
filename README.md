@@ -2,8 +2,6 @@
   <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_YouTube_banner_draft5_cropped_transparent.png?raw=true" />
 </p>
 
-### Engineering Student and Godot Game Developer. I break down shaders on YouTube.
-
 <p align="center">
 <a href="https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured" target="blank"><img src="https://img.shields.io/badge/NekotoArts-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="NekotoArts" /></a>
 <a href="https://twitter.com/NekotoArts" target="blank"><img src="https://img.shields.io/badge/NekotoArts-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="NekotoArts" /></a>
@@ -11,13 +9,15 @@
 <a href="https://godotshaders.com/author/nekotoarts/" target="blank"><img src="https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /></a>
 <a href="https://reddit.com/user/XDGregory" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a></p>
 
-<p align="left">
-<a href="https://github.com/nekotogd/nekotogd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekotogd&show_icons=true&theme=discord_old_blurple" />
-</a>
+<h3><p align="center">Engineering Student and Godot Game Developer. I break down shaders on YouTube.</p></h3>
 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nekotogd&theme=onedark" alt="Trophies" /></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/nekotogd/nekotogd">
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Nekoto's GitHub Stats" />
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Nekoto's GitHub Stats" />
 </a>
 </p>
 
