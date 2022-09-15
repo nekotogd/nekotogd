@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_YouTube_banner_draft5_cropped_transparent.png?raw=true" />
+  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_YouTube_banner_draft6_cropped_transparent.png?raw=true" />
 </p>
 
 <p align="center">
