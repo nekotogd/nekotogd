@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👋 I'm Nekoto!</h1>
 
 <p align="center">
-  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_YouTube_banner_draft6_cropped_transparent.png?raw=true" />
+  <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_YouTube_banner_draft3_darkmode_transparent.png?raw=true" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend+Deca&size=24&duration=3000&pause=100&color=E0144C&center=true&vCenter=true&width=435&lines=I'm+in+love+with+shaders;I'm+a+hobbyist+GameDev;Occasionally%2C+I'm+a+YouTuber;Usually%2C+I'm+drowning+in+shader+code;I'm+a+Technical+Artist" alt="Typing SVG" width="600" /></a>
 </p>
 
@@ -13,9 +13,10 @@
 <a href="https://godotshaders.com/author/nekotoarts/" target="blank"><img src="https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /></a>
 <a href="https://reddit.com/user/XDGregory" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a></p>
 
-[![nekotogd's Stats](https://github-readme-stats.vercel.app/api?username=nekotogd&theme=bear&show_icons=true&hide_border=true&count_private=true)](https://github.com/nekotogd/nekotogd)
-
-[![nekotogd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=bear&show_icons=true&hide_border=true&layout=compact)](https://github.com/nekotogd/nekotogd)
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nekotogd&theme=bear&show_icons=true&hide_border=true&count_private=true" style="width:45%; height:300px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=bear&show_icons=true&hide_border=true&layout=compact" style="width:45%; height:300px;" />
+</p>
 
 Writing shaders and creating VFX is probably what I do best.
 
