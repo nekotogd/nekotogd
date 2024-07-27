@@ -13,9 +13,9 @@
 <a href="https://godotshaders.com/author/nekotoarts/" target="blank"><img src="https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /></a>
 <a href="https://reddit.com/user/XDGregory" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a></p>
 
-<a href="https://github.com/nekotogd/nekotogd">
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Nekoto's GitHub Stats" />
-</a>
+[![nekotogd's Stats](https://github-readme-stats.vercel.app/api?username=nekotogd&theme=bear&show_icons=true&hide_border=true&count_private=true)](https://github.com/nekotogd/nekotogd)
+
+[![nekotogd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=bear&show_icons=true&hide_border=true&layout=compact)](https://github.com/nekotogd/nekotogd)
 
 Writing shaders and creating VFX is probably what I do best.
 
