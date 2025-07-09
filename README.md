@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend+Deca&size=24&duration=3000&pause=100&color=E0144C&center=true&vCenter=true&width=435&lines=I'm+in+love+with+shaders;I'm+a+hobbyist+GameDev;Occasionally%2C+I'm+a+YouTuber;Usually%2C+I'm+drowning+in+shader+code;I'm+a+Technical+Artist" alt="Typing SVG" width="600" /></a>
 </p>
 
-<h3><p align="center">Engineering Student and Godot Game Developer. I break down shaders on YouTube.</p></h3>
+<h3><p align="center">Mechanical Engineer and Godot Game Developer. I break down shaders on YouTube.</p></h3>
 
 <p align="center">
 <a href="https://nekotoarts.itch.io/" target="blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
