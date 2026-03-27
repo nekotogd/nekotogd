@@ -13,11 +13,6 @@
 <a href="https://godotshaders.com/author/nekotoarts/" target="blank"><img src="https://img.shields.io/badge/Godot_Shaders-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /></a>
 <a href="https://reddit.com/user/XDGregory" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a></p>
 
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nekotogd&theme=bear&show_icons=true&hide_border=true&count_private=true" style="width:45%; height:300px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekotogd&theme=bear&show_icons=true&hide_border=true&layout=compact" style="width:45%; height:300px;" />
-</p>
-
 Writing shaders and creating VFX is probably what I do best.
 
 Check out my [YouTube channel](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured), its where I post most of my Game Development progress, cool shaders and VFX, and **a whole lot of** Breath of the Wild stuff in Godot.
