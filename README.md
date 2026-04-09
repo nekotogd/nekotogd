@@ -1,5 +1,3 @@
-<h1 align="center">Hi There! 👋 I'm Nekoto!</h1>
-
 <p align="center">
   <img src="https://github.com/nekotogd/nekotogd/blob/main/NekotoArts_YouTube_banner_draft3_darkmode_transparent.png?raw=true" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend+Deca&size=24&duration=3000&pause=100&color=E0144C&center=true&vCenter=true&width=435&lines=I'm+in+love+with+shaders;I'm+a+hobbyist+GameDev;Occasionally%2C+I'm+a+YouTuber;Usually%2C+I'm+drowning+in+shader+code;I'm+a+Technical+Artist" alt="Typing SVG" width="600" /></a>
@@ -18,7 +16,3 @@ Writing shaders and creating VFX is probably what I do best.
 Check out my [YouTube channel](https://www.youtube.com/channel/UCD7K_FECPHTF0z5okAVlh0g/featured), its where I post most of my Game Development progress, cool shaders and VFX, and **a whole lot of** Breath of the Wild stuff in Godot.
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCD7K_FECPHTF0z5okAVlh0g?color=FF0000&label=Sub%20to%20NekotoArts&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/c/NekotoArts) [![](https://img.shields.io/twitter/follow/NekotoArts?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/NekotoArts)
-
-</br>
-</br>
-</br>
